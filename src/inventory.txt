@@ -1,3 +1,4 @@
 
 Banana,12
-Apple,5
+Apple,12
+Mango,6
